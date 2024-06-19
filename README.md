@@ -1,3 +1,4 @@
 # Web-Portfolio
 Repository for My Web Portfolio
 My Web Portfolio will be a professional portfolio, acting as a sort of "all about me" catch-all site including my resume, LinkedIn profile, information about my education and skills, and some of my completed works during my time at Pitt. This portfolio will also act as my first attempt at designing a website and will be something I can continuously work on improving and polishing. In this sense, it will also display the technical skills I have learned and will learn as I continue to pursue my Digital Media certificate through the College of General Studies. 
+Note: Some of the content of this website cannot be accessed through GitHub hosting. Mainly the short films I have included are too large to be added through GitHub. I will be looking for an alternative hosting platform that can handle the large file sizes.
